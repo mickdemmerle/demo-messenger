@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138037661743",
+    "firebase_url": "https://demomessenger-ff637.firebaseio.com",
+    "project_id": "demomessenger-ff637",
+    "storage_bucket": "demomessenger-ff637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138037661743:android:5a9fcc51a0f212aa",
+        "android_client_info": {
+          "package_name": "michael.demmerle.demomessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138037661743-7hi9esockjte9pulj0p244jvhu7455nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzlpffGPIWxAdwBJNHjLRgoXqcXMqqEkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
